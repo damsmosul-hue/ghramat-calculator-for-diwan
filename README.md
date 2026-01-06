@@ -113,7 +113,7 @@
 </main>
 
 <footer>
-  &copy; 2026 جميع الحقوق محفوظة
+  &copy;-- omar alsultan -- 2026 جميع الحقوق محفوظة
 </footer>
 
 <script>
